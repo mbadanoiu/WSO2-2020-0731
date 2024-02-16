@@ -8,7 +8,7 @@ The vendor's disclosure and fix for this vulnerability can be found [here](https
 
 ### Why no CVE?
 
-Neither me not the vendor requested a CVE for these vulnerabilities.
+Neither me nor the vendor requested a CVE for these vulnerabilities.
 
 ### Requirements:
 
